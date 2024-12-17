@@ -1,4 +1,4 @@
-# test-angular-module-federation-with-primeng
+# test-angular-native-federation-with-primeng
 
 Angular 18, @angular-architects/native-federation, PrimeNg
 
